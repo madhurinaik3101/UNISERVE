@@ -13,7 +13,7 @@ UNISERVE is an Internal University Ticketing Database Management System
 
 ## Overview
 
-## Business Context:  
+# Business Context:  
 We observed that managing communication with various departments in a university is a common 
 challenge for college students, especially for newly admitted students. The most common medium 
 of communication used across departments is email. There are diverse topics, like doubts in a 
@@ -47,7 +47,7 @@ system provides.
 
 ## How It Works
 
-# BUSINESS RULES 
+# Business Rules
 1. Within the system, only Students can create Tickets. 
 2. One ticket should be linked to only one student. 
 3. One ticket should be linked to only one department at a time. 
@@ -61,7 +61,7 @@ simultaneously.
 10. Each course must have at least one professor assigned to it. 
 11. An instructor can teach one or more courses.  
 12. A student can only receive one grade for a course.  
-13. The ticket status will open, in progress, or resolved to track the development. 
+13. The ticket status will be open, in progress, or resolved to track the development. 
 14. The students can choose the priority level for their tickets (low, medium, or high). 
 15. A student cannot raise a ticket for a course in which they are not registered.  
 16. A student should be registered for at least one course only belonging to the term enrolled. 
@@ -70,7 +70,9 @@ simultaneously.
 
 ## Technologies Used
 
-
+1. Lucidchart
+2. MySQL
+3. Microsoft Power BI
 
 
 
