@@ -64,8 +64,11 @@ simultaneously.
 13. The ticket status will be open, in progress, or resolved to track the development. 
 14. The students can choose the priority level for their tickets (low, medium, or high). 
 15. A student cannot raise a ticket for a course in which they are not registered.  
-16. A student should be registered for at least one course only belonging to the term enrolled. 
-17. A student can have one or multiple registrations. 
+16. A student should be registered for at least one course only belongs to the term enrolled. 
+17. A student can have one or multiple registrations.
+18. A Department has one or many Employees. 
+19. An Employee should be associated with only one Department.
+
 
 
 ## Technologies Used
@@ -86,5 +89,3 @@ simultaneously.
 
 
 
-18. A Department has one or many Employees. 
-19. An Employee should be associated with only one Department.
